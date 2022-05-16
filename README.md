@@ -1,4 +1,4 @@
-## Oiee!! eu sou o Ryan Aragão, estudante e futuro programador!
+## Oiee!! eu sou o Ryan Aragão, Desenvolvedor Front-end!
 <div align="center">
   <a href="https://github.com/Ryan-012">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ryan-012&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
