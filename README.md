@@ -1,4 +1,4 @@
-## Oiee!! eu sou o Ryan Aragão, Desenvolvedor Front-end!
+## Oiee!! eu sou o Ryan Aragão, Desenvolvedor Full Stack!
 <div align="center">
   <a href="https://github.com/Ryan-012">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ryan-012&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
@@ -8,6 +8,7 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/node-original.svg">
 </div>
   
   ##
