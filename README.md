@@ -1,4 +1,4 @@
-## Oiee!! eu sou o Ryan Aragão, Desenvolvedor Full Stack!
+## Hello!! I'm Ryan Aragão, Full-Stack Developer! 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <div align="center">
   <a href="https://github.com/Ryan-012">
