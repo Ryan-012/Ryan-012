@@ -26,4 +26,4 @@
   
   ## 💡 Latest Projects
 
-  - [Chat project using socket.io]()<br/>
+  - [Chat project](https://github.com/Ryan-012/Chat-project)<br/>
