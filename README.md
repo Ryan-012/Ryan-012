@@ -25,5 +25,5 @@
 </div>
   
   ## 💡 Latest Projects
-
-  - [Chat project](https://github.com/Ryan-012/Chat-project)<br/>
+  - [School Management](https://github.com/Ryan-012/School-Management)
+  - [Chat project](https://github.com/Ryan-012/Chat-project)
