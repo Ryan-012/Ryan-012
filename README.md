@@ -1,4 +1,4 @@
-## Hello!! I'm Ryan Aragão, Full-Stack Developer! 
+## Hello!! I'm Ryan Aragão, Back-end Developer! 
 <div align="center">
   <a href="https://github.com/Ryan-012">
   <img  width="48%" src="https://github-readme-stats.vercel.app/api?username=Ryan-012&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
