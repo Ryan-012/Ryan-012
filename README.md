@@ -25,5 +25,6 @@
 </div>
   
   ## 💡 Latest Projects
+  - [To-Do List](https://github.com/Ryan-012/To-Do-List)
   - [School Management](https://github.com/Ryan-012/School-Management)
   - [Chat project](https://github.com/Ryan-012/Chat-project)
