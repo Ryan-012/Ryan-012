@@ -6,21 +6,21 @@
 </div>
   
   
-   ## 👨🏻‍💻🚀 Technologies
+   ## 🚀 Skills
 
   
   <div style="display: inline_block"><br>
-  <img align="center"   height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center"   height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center"  height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" /> 
   <img align="right" height="150" width="150" src="https://cdn.discordapp.com/attachments/737069685333557319/1036731457034522654/gif.gif" /> 
+  
   
 </div>
   
- ## 🌐 Social Medias
+ ## 🌐 Connect with me
  
 <div> 
   <a href="https://instagram.com/_ryanaragao" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
