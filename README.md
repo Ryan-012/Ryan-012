@@ -1,4 +1,4 @@
-## Hello!! I'm Ryan Aragão, Full Stack Web Developer! 
+## Hello!! I'm Ryan Aragão, Back End Developer! 
 <div align="center">
   <a href="https://github.com/Ryan-012">
   <img  width="48%" src="https://github-readme-stats.vercel.app/api?username=Ryan-012&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
@@ -11,8 +11,6 @@
   
   <div style="display: inline_block"><br>
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
   <img align="center"  height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" /> 
@@ -31,6 +29,7 @@
 </div>
   
   ## 💡 Latest Projects
+  - [Bet Generator](https://github.com/Ryan-012/bet-generator)
   - [To-Do List](https://github.com/Ryan-012/To-Do-List)
   - [School Management](https://github.com/Ryan-012/School-Management)
-  - [Chat project](https://github.com/Ryan-012/Chat-project)
+  
