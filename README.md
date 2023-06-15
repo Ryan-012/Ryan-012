@@ -1,4 +1,4 @@
-## Hello!! I'm Ryan Aragão, Back End Developer! 
+## Hello!! I'm Ryan Aragão, Full Stack Developer! 
 <div align="center">
   <a href="https://github.com/Ryan-012">
   <img  width="48%" src="https://github-readme-stats.vercel.app/api?username=Ryan-012&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
@@ -12,10 +12,12 @@
   <div style="display: inline_block"><br>
   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
   <img align="center"  height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-  <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-    <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+  <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" /> 
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> 
+    <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
   <img align="right" height="150" width="150" src="https://cdn.discordapp.com/attachments/737069685333557319/1036731457034522654/gif.gif" /> 
+    
   
   
 </div>
