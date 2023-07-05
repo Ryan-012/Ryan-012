@@ -32,6 +32,7 @@
 </div>
   
   ## 💡 Latest Projects
+  - [Whatsapp Chat](https://github.com/Ryan-012/whatsapp-chat)
   - [NLW Spacetime](https://main.d3dn7d96quisvt.amplifyapp.com)
   - [Bet Generator](https://github.com/Ryan-012/bet-generator)
   - [To-Do List](https://github.com/Ryan-012/To-Do-List)
